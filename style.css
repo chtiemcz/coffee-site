@@ -1,0 +1,167 @@
+body {
+    overflow: hidden;
+}
+
+body {
+	background-image:url("img/background.png");
+	text-decoration: none; 
+}
+#logo {
+	margin-top: 50px;
+	position: absolute;
+	margin-left: 60px;
+	width: 300px;
+}
+
+.info {
+	font-family: Arial, sans-serif;
+	font-size: 23px;
+	word-spacing: 120px
+}
+
+#text {
+	color: #bcaa98;
+}
+
+#info {
+	margin-left: 600px;
+	padding-top: 65px;
+	position: absolute;
+}
+
+a:hover {
+      color: gray; /* Цвет ссылок при наведении */
+    }
+
+a {
+	color: black;
+}
+
+#qr {
+	position: absolute;
+	margin-left: 1500px;
+	margin-top: 60px;
+	width: 200px;
+}
+
+#facebook {
+	width: 20px;
+	position: absolute;
+	margin-left: 1740px;
+	margin-top: 55px;
+}
+
+#instagram {
+	width: 40px;
+	position: absolute;
+	margin-top: 55px;
+	margin-left: 1780px;
+}
+
+#cofe {
+	color: white;
+	font-family: Arial, sans-serif;
+	position: absolute;
+	font-size: 65px;
+	margin-left: 60px;
+	margin-top: 222px;
+}
+
+#cena {
+	color: black;
+	font-family: Arial, sans-serif;
+	position: absolute;
+	font-size: 30px;
+	margin-left: 60px;
+	margin-top: 377px;
+}
+
+#bgpromo {
+	width: 465px;
+	margin-left: 55px;
+	margin-top: 460px;
+	position: absolute;
+}
+
+#activate {
+	color: white;
+	font-family: Arial, sans-serif;
+	position: absolute;
+	margin-top: 465px;
+	margin-left: 110px;
+	font-size: 25px;
+}
+
+#check {
+	width: 17px;
+	height: 17px;
+	margin: 5px 5px 5px 5px;
+	margin-left: 10px;
+}
+
+#text3 {
+	font-family: 'Finlandica', sans-serif;
+	font-size: 20px;
+}
+
+.checkbox {
+	position: absolute;
+	margin-top: 520px;
+	margin-left: 60px;
+}
+
+#ooctt {
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	color: white;
+	position: absolute;
+}
+
+.oct {
+	margin-left: 60px;
+	margin-top: 660px;
+	position: absolute;
+}
+
+#octt {
+	font-family: Arial, sans-serif;
+	font-size: 30px;
+	color: white;
+	position: absolute;
+	padding-top: 20px;
+}
+
+#coffee {
+	width: 820px;
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 300px;
+}
+
+#right {
+	position: absolute;
+	width: 150px;
+	margin-left: 835px;
+	margin-top: 375px;
+}
+
+#electo-img {
+	position: absolute;
+	width: 125px;
+	margin-left: 950px;
+	margin-top: 690px;
+}
+
+#box {
+	width: 120px;
+	margin-left: 1555px;
+	margin-top: 380px;
+}
+
+#coffee1 {
+	width: 555px;
+	position: absolute;
+	margin-left: 1215px;
+	margin-top: 510px;
+	margin-bottom: 10px;
+}
